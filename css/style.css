@@ -1,11 +1,21 @@
-html{
+body{
 	background-color: black;
+	font-family: Verdana;
+	color: white;
+	text-align: center;
 }
 
 h1{
-	font-family: Verdana;
 	font-weight: normal;
 	font-size: 50px;
-	color: white;
+}
+
+.download {
+	font-size: 16px;
 	text-align: center;
+	font-weight: normal;
+}
+
+.link {
+	color: aquamarine;
 }
