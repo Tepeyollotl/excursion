@@ -24,3 +24,8 @@ h2 {
 .link {
 	color: aquamarine;
 }
+
+p {
+	color: gray;
+	font-size: 21px;
+}
